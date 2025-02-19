@@ -1,5 +1,5 @@
 a website that displays results of the World Cup 2026 matches also the groups and the classment with points , i used the data of the past competetion that i consumed from the API using javascript (axios) as a showcase of how the website works,  
-
+https://nimble-lily-f7d150.netlify.app/
 ![Screenshot 2024-08-14 234212](https://github.com/user-attachments/assets/84a76c53-f2cd-4c22-a892-c1a15cd2967f)
 ![Screenshot 2024-08-14 234233](https://github.com/user-attachments/assets/ae734d45-5451-45f4-9e99-7c9e3baf92f9)
 ![Screenshot 2024-08-14 234245](https://github.com/user-attachments/assets/d67aa1a5-08c1-4c68-8c8f-ac3e826dec96)
